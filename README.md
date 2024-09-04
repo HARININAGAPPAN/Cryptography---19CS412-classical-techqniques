@@ -100,8 +100,9 @@ OUTPUT:
 
 
 
-Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
+Input : HARINI N
+Encrypted Message : KDULQL Q  
+Decrypted Message : HARINI N
 
 ## RESULT:
 The program is executed successfully
@@ -355,7 +356,10 @@ Output:
 
 ## RESULT:
 The program is executed successfully
-
+KEY TEXT:MONOPOLY
+PLAIN TEXT: HARINI
+CIPER TEXT:FCTGLG
+DECRYPTED TEXT : HARINI
 
 ---------------------------
 
@@ -486,8 +490,10 @@ int main() {
 
 
 
-Input Message : SecurityLaboratory
-Padded Message : SECURITYLABORATORY Encrypted Message : EACSDKLCAEFQDUKSXU Decrypted Message : SECURITYLABORATORY
+Input Message : HARINI
+Padded Message : HARINI
+Encrypted Message : PWYYTQ
+Decrypted Message : HARINI
 ## RESULT:
 The program is executed successfully
 
@@ -604,8 +610,9 @@ OUTPUT :
 Simulating Vigenere Cipher
 
 
-Input Message : SecurityLaboratory
-Encrypted Message : NMIYEMKCNIQVVROWXC Decrypted Message : SECURITYLABORATORY
+Input Message : HARINI
+Encrypted Message : :3D;@;
+Decrypted Message : HARINI
 ## RESULT:
 The program is executed successfully
 
@@ -746,6 +753,10 @@ int main() {
 ## OUTPUT:
 OUTPUT![Screenshot 2024-09-04 155644](https://github.com/user-attachments/assets/ead31cd0-fd43-4d54-8bce-bf523c027263)
 :
+ENTER THE PLAIN TEXT: HARINI
+ENTER THE KEY(NUMBER OF RAILS): 3
+ENCRYPTED TEXT: HNAIIR
+DECRYPTED TEXT: HARINI
 
 ## RESULT:
 The program is executed successfully
