@@ -98,14 +98,10 @@ int main() {
 }
 ```
 ## OUTPUT:
-OUTPUT:
+
 ![Screenshot 2024-09-04 154839](https://github.com/user-attachments/assets/e263ad30-e313-416c-a3cf-414018a75ad6)
 
 
-
-Input : HARINI N
-Encrypted Message : KDULQL Q  
-Decrypted Message : HARINI N
 
 ## RESULT:
 The program is executed successfully
